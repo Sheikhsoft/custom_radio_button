@@ -1,9 +1,11 @@
 library custom_radio_button;
 
+import 'package:custom_radio_button/utils.dart';
 import 'package:flutter/material.dart';
 
 import 'custom_radio_button.dart';
-import 'radio'utils_model.dart';
+import 'radio_model.dart';
+
 
 class FullPageRadioGroup extends StatelessWidget {
   Map mapData;
