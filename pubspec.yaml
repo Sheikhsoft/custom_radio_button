@@ -1,8 +1,8 @@
 name: custom_radio_button
 description: A new Flutter package fo Custom Radio Button.
 version: 0.0.1
-author:
-homepage:
+author: SK SHAMIMUL ISLAM (SHEIKHSOFT)<sheikhsoft.com@gmail.com>
+homepage: https://github.com/Sheikhsoft/custom_radio_button
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
